@@ -1,0 +1,38 @@
+*{
+	font-family: 'Roboto', sans-serif;
+}
+
+h1{
+	text-align: center;
+	margin-bottom: 2em;
+}
+
+h2{
+	text-align: center;
+}
+
+span{
+	color: red;
+}
+
+form{
+	width: 20em;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 3em;
+	margin-bottom: 3em;
+	border: 2px dotted black;
+	padding: 4em;
+}
+
+.para{
+	width: 32em;
+	margin-left: auto;
+	margin-right: auto;
+}
+.ref{
+	font-size: .8em;
+	margin-top: 15em;
+	text-align: center;
+
+}
